@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">escortBot</string>
+    <string name="welcomeBtn_text1">Give event intro</string>
+    <string name="welcomeBtn_text2">Escort me</string>
+    <string name="welcome_text3">*Interact with me by voice or buttons*</string>
+
+    <string name="eventIntro_text">This is an annual IT fair held by the Faculty of
+                             Information Science of Technology of UKM. This fair is divided into two
+                             sections, namely mobile and desktop. Products such as headphones, mouse
+                             and keyboard are also sold here.</string>
+
+    <string name="escort_text1">Which section would you like me to escort you to?</string>
+    <string name="escort_text2">*Say \'NO\' if you do not wish to do so*</string>
+    <string name="repeat">Repeat</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="promo_text1">Would you like to know about the promotion details?</string>
+    <string name="promoBtn_text1">Yes, tell me!</string>
+    <string name="promoBtn_text2">Not interested!</string>
+
+    <string name="promoMobile_text">Currently, all Samsung and Huawei smartphones have discounts up to
+                                    fifty percent. Headphones and chargers of all brands are also on sale.</string>
+
+    <string name="promoDesktop_text">Currently, customers can enjoy up to thirty percent discounts for laptops of
+                                     all brands. Other products such as mouse and keyboards are also enjoying
+                                     discounts.</string>
+</resources>
